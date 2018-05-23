@@ -21,8 +21,7 @@ public class MainActivity extends AppCompatActivity {
     LinearLayout toolbar;
     @BindView(R.id.view_pager)
     ViewPager viewPager;
-    @BindView(R.id.mask)
-    View mask;
+
     @BindView(R.id.drawer_layout)
     DrawerLayout drawerLayout;
     @BindView(R.id.coordinator)

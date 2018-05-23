@@ -40,4 +40,11 @@
         android:textColorHint="@android:color/white" />
 
 
+
+   <View
+       android:layout_width="60dp"
+       android:layout_height="40dp"
+       />
+
+
 </LinearLayout>
